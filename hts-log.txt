@@ -1,11 +1,12 @@
-HTTrack3.49-2+htsswf+htsjava launched on Wed, 08 Dec 2021 18:10:08 at https://justintan.work/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://pro2-bar-s3-cdn-cf.myportfolio.com/*
-(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "en, *" https://justintan.work/ -O1 "G:\HTTRack\Portfolio\Portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://pro2-bar-s3-cdn-cf.myportfolio.com/* )
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 08 Dec 2021 20:52:07 at https://justins-dandy-site-6c7074.webflow.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "en, *" https://justins-dandy-site-6c7074.webflow.io/ -O1 "G:\HTTRack\Webflow Test\Webflow Test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
+20:52:07	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://justins-dandy-site-6c7074.webflow.io/robots.txt (from primary/primary)
 
-HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 18 seconds : 44 links scanned, 43 files written (8506779 bytes overall), no files updated [19330 bytes received at 74 bytes/sec], 1.0 requests per connection
-(No errors, 0 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 51 seconds : 43 links scanned, 42 files written (2717746 bytes overall), 22 files updated [760378 bytes received at 6850 bytes/sec], 120139 bytes transferred using HTTP compression in 16 files, ratio 33%, 2.3 requests per connection
+(1 errors, 0 warnings, 0 messages)

@@ -1,5 +1,5 @@
--qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "" -%l "en, *" https://justintan.work/ -O1 "G:\HTTRack\Portfolio\Portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://pro2-bar-s3-cdn-cf.myportfolio.com/*
-File generated automatically on Wed, 08 Dec 2021 18:10:08, do NOT edit
+-qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "" -%l "en, *" https://justins-dandy-site-6c7074.webflow.io/ -O1 "G:\HTTRack\Webflow Test\Webflow Test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+File generated automatically on Wed, 08 Dec 2021 20:52:07, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
