@@ -1,5 +1,5 @@
--qiC2%Ps2u1%s%uN100I0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; MSIE 4.01; Windows 98)" -%F "" -%l "en, *" https://portopower.webflow.io/ -O1 "G:\HTTRack\Webflow Test\Webflow Test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-File generated automatically on Wed, 08 Dec 2021 21:30:58, do NOT edit
+-qwC2%Ps2u1%s%uN100%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; MSIE 4.01; Windows 98)" -%F "" -%l "en, *" https://portopower.webflow.io/ -O1 "G:\HTTRack\Webflow Test\Webflow Test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+File generated automatically on Wed, 08 Dec 2021 22:17:15, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
