@@ -1,0 +1,1108 @@
+Uri: http://justintan.local/
+File Name: G:\WebCopy\justintan.local\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/feed/
+File Name: G:\WebCopy\justintan.local\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/comments/feed/
+File Name: G:\WebCopy\justintan.local\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/sample-page-2/feed/
+File Name: G:\WebCopy\justintan.local\sample-page-2\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-content/themes/Avada-Child-Theme/style.css?ver=5.8.2
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada-Child-Theme\style.css
+Content Type: text/css
+
+Uri: http://justintan.local/wp-content/uploads/fusion-styles/251ed8cb363169653c2772e4dcdb3cd1.min.css?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-styles\251ed8cb363169653c2772e4dcdb3cd1.min.css
+Content Type: text/css
+
+Uri: http://justintan.local/wp-json/
+File Name: G:\WebCopy\justintan.local\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/wp/v2/pages/1504
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\pages\1504.json
+Content Type: application/json
+
+Uri: http://justintan.local/xmlrpc.php?rsd
+File Name: G:\WebCopy\justintan.local\xmlrpc.php.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/wp-includes/wlwmanifest.xml
+File Name: G:\WebCopy\justintan.local\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/exhibitions/
+File Name: G:\WebCopy\justintan.local\exhibitions\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/artists/
+File Name: G:\WebCopy\justintan.local\artists\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/about/
+File Name: G:\WebCopy\justintan.local\about\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/stories/
+File Name: G:\WebCopy\justintan.local\stories\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/contact/
+File Name: G:\WebCopy\justintan.local\contact\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/author/admin/
+File Name: G:\WebCopy\justintan.local\author\admin\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/abstract-model/
+File Name: G:\WebCopy\justintan.local\abstract-model\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/retrospectiva-and-divinity/
+File Name: G:\WebCopy\justintan.local\retrospectiva-and-divinity\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/arkhaia/
+File Name: G:\WebCopy\justintan.local\arkhaia\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/portfolio-item/richard-vora/
+File Name: G:\WebCopy\justintan.local\portfolio-item\richard-vora\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/modern-art-exhibition-at-avada-galerie/
+File Name: G:\WebCopy\justintan.local\modern-art-exhibition-at-avada-galerie\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/bring-your-curiosity-new-exhibition/
+File Name: G:\WebCopy\justintan.local\bring-your-curiosity-new-exhibition\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/a-timeline-of-painting-at-avada-galerie/
+File Name: G:\WebCopy\justintan.local\a-timeline-of-painting-at-avada-galerie\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/new-perspectives-on-storytelling-and-art/
+File Name: G:\WebCopy\justintan.local\new-perspectives-on-storytelling-and-art\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/wp-content/uploads/2021/05/avada-galerie-logo.svg
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\2021\05\avada-galerie-logo.svg
+Content Type: image/svg+xml
+
+Uri: http://justintan.local/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: G:\WebCopy\justintan.local\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/wp-includes/js/wp-embed.min.js?ver=5.8.2
+File Name: G:\WebCopy\justintan.local\wp-includes\js\wp-embed.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/84146bd0c991b7198af30171e6244885.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\84146bd0c991b7198af30171e6244885.min.js
+Content Type: application/x-javascript
+
+Uri: https://wordpress.org/
+File Name: G:\WebCopy\justintan.local\index-1.htm
+Content Type: text/html
+
+Uri: http://justintan.local/wp-content/uploads/fusion-gfonts/wlpxgwjKBV1pqhv97I8x3F5O.woff2
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-gfonts\wlpxgwjKBV1pqhv97I8x3F5O.woff2
+Content Type: application/font-woff2
+
+Uri: http://justintan.local/wp-content/uploads/fusion-gfonts/wlpxgwjKBV1pqhv97IAx3F5O.woff2
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-gfonts\wlpxgwjKBV1pqhv97IAx3F5O.woff2
+Content Type: application/font-woff2
+
+Uri: http://justintan.local/wp-content/uploads/fusion-gfonts/wlpxgwjKBV1pqhv97I0x3F5O.woff2
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-gfonts\wlpxgwjKBV1pqhv97I0x3F5O.woff2
+Content Type: application/font-woff2
+
+Uri: http://justintan.local/wp-content/uploads/fusion-gfonts/wlpxgwjKBV1pqhv97IMx3A.woff2
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-gfonts\wlpxgwjKBV1pqhv97IMx3A.woff2
+Content Type: application/font-woff2
+
+Uri: http://justintan.local/wp-content/uploads/fusion-gfonts/wlp_gwjKBV1pqhv03IEp2A.woff2
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-gfonts\wlp_gwjKBV1pqhv03IEp2A.woff2
+Content Type: application/font-woff2
+
+Uri: http://justintan.local/wp-content/uploads/fusion-gfonts/wlp_gwjKBV1pqhv73IEp2A.woff2
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-gfonts\wlp_gwjKBV1pqhv73IEp2A.woff2
+Content Type: application/font-woff2
+
+Uri: http://justintan.local/wp-content/uploads/fusion-gfonts/wlp_gwjKBV1pqhv23IEp2A.woff2
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-gfonts\wlp_gwjKBV1pqhv23IEp2A.woff2
+Content Type: application/font-woff2
+
+Uri: http://justintan.local/wp-content/uploads/fusion-gfonts/wlp_gwjKBV1pqhv43IE.woff2
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-gfonts\wlp_gwjKBV1pqhv43IE.woff2
+Content Type: application/font-woff2
+
+Uri: http://justintan.local/wp-content/uploads/fusion-gfonts/NGS6v5_NC0k9P9H0TbFzsQ.woff2
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-gfonts\NGS6v5_NC0k9P9H0TbFzsQ.woff2
+Content Type: application/font-woff2
+
+Uri: http://justintan.local/wp-content/uploads/fusion-gfonts/NGS6v5_NC0k9P9H2TbE.woff2
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-gfonts\NGS6v5_NC0k9P9H2TbE.woff2
+Content Type: application/font-woff2
+
+Uri: http://justintan.local/wp-content/uploads/fusion-icons/Galerie-Icon-Set-v1.0/fonts/Galerie-Icon-Set.ttf?xzqstd
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-icons\Galerie-Icon-Set-v1.0\fonts\Galerie-Icon-Set.ttf
+Content Type: application/font-sfnt
+
+Uri: http://justintan.local/wp-content/uploads/fusion-icons/Galerie-Icon-Set-v1.0/fonts/Galerie-Icon-Set.woff?xzqstd
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-icons\Galerie-Icon-Set-v1.0\fonts\Galerie-Icon-Set.woff
+Content Type: application/font-woff
+
+Uri: http://justintan.local/wp-content/uploads/fusion-icons/Galerie-Icon-Set-v1.0/fonts/Galerie-Icon-Set.svg?xzqstd
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-icons\Galerie-Icon-Set-v1.0\fonts\Galerie-Icon-Set.svg
+Content Type: image/svg+xml
+
+Uri: http://justintan.local/wp-content/themes/Avada/assets/images/patterns/pattern1.png
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada\assets\images\patterns\pattern1.png
+Content Type: image/png
+
+Uri: http://justintan.local/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/awb-icons.woff
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada\includes\lib\assets\fonts\icomoon\awb-icons.woff
+Content Type: application/font-woff
+
+Uri: http://justintan.local/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/awb-icons.ttf
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada\includes\lib\assets\fonts\icomoon\awb-icons.ttf
+Content Type: application/font-sfnt
+
+Uri: http://justintan.local/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/awb-icons.svg
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada\includes\lib\assets\fonts\icomoon\awb-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://justintan.local/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.eot
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://justintan.local/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.eot?
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://justintan.local/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: http://justintan.local/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.woff
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: http://justintan.local/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.ttf
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: application/font-sfnt
+
+Uri: http://justintan.local/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.svg
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://justintan.local/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.eot
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://justintan.local/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.eot?
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://justintan.local/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: http://justintan.local/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.woff
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: http://justintan.local/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: application/font-sfnt
+
+Uri: http://justintan.local/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.svg
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://justintan.local/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.eot
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://justintan.local/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.eot?
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://justintan.local/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: http://justintan.local/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.woff
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: http://justintan.local/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: application/font-sfnt
+
+Uri: http://justintan.local/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.svg
+File Name: G:\WebCopy\justintan.local\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://justintan.local/wp-content/plugins/fusion-builder/assets/images/mejs-controls-dark.svg
+File Name: G:\WebCopy\justintan.local\wp-content\plugins\fusion-builder\assets\images\mejs-controls-dark.svg
+Content Type: image/svg+xml
+
+Uri: http://justintan.local/wp-content/plugins/fusion-builder/assets/images/iLightbox/closedhand.cur
+File Name: G:\WebCopy\justintan.local\wp-content\plugins\fusion-builder\assets\images\iLightbox\closedhand.cur
+Content Type: application/octet-stream
+
+Uri: http://justintan.local/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/preloader.gif
+File Name: G:\WebCopy\justintan.local\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\preloader.gif
+Content Type: image/gif
+
+Uri: http://justintan.local/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/caption-bg.png
+File Name: G:\WebCopy\justintan.local\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\caption-bg.png
+Content Type: image/png
+
+Uri: http://justintan.local/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/social-bg.png
+File Name: G:\WebCopy\justintan.local\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\social-bg.png
+Content Type: image/png
+
+Uri: http://justintan.local/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/alert.png
+File Name: G:\WebCopy\justintan.local\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\alert.png
+Content Type: image/png
+
+Uri: http://justintan.local/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/buttons.png
+File Name: G:\WebCopy\justintan.local\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\buttons.png
+Content Type: image/png
+
+Uri: http://justintan.local/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/fullscreen-icon-64.png
+File Name: G:\WebCopy\justintan.local\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\fullscreen-icon-64.png
+Content Type: image/png
+
+Uri: http://justintan.local/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/fullscreen-hover-icon-64.png
+File Name: G:\WebCopy\justintan.local\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\fullscreen-hover-icon-64.png
+Content Type: image/png
+
+Uri: http://justintan.local/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/x-mark-icon-64.png
+File Name: G:\WebCopy\justintan.local\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\x-mark-icon-64.png
+Content Type: image/png
+
+Uri: http://justintan.local/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/x-mark-hover-icon-64.png
+File Name: G:\WebCopy\justintan.local\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\x-mark-hover-icon-64.png
+Content Type: image/png
+
+Uri: http://justintan.local/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-next-icon-64.png
+File Name: G:\WebCopy\justintan.local\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrow-next-icon-64.png
+Content Type: image/png
+
+Uri: http://justintan.local/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-next-hover-icon-64.png
+File Name: G:\WebCopy\justintan.local\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrow-next-hover-icon-64.png
+Content Type: image/png
+
+Uri: http://justintan.local/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-prev-icon-64.png
+File Name: G:\WebCopy\justintan.local\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrow-prev-icon-64.png
+Content Type: image/png
+
+Uri: http://justintan.local/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-prev-hover-icon-64.png
+File Name: G:\WebCopy\justintan.local\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrow-prev-hover-icon-64.png
+Content Type: image/png
+
+Uri: http://justintan.local/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/play-icon-64.png
+File Name: G:\WebCopy\justintan.local\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\play-icon-64.png
+Content Type: image/png
+
+Uri: http://justintan.local/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/play-hover-icon-64.png
+File Name: G:\WebCopy\justintan.local\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\play-hover-icon-64.png
+Content Type: image/png
+
+Uri: http://justintan.local/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/pause-icon-64.png
+File Name: G:\WebCopy\justintan.local\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\pause-icon-64.png
+Content Type: image/png
+
+Uri: http://justintan.local/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/pause-hover-icon-64.png
+File Name: G:\WebCopy\justintan.local\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\pause-hover-icon-64.png
+Content Type: image/png
+
+Uri: http://justintan.local/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/thumb-overlay-play.png
+File Name: G:\WebCopy\justintan.local\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: http://justintan.local/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrows_vertical.png
+File Name: G:\WebCopy\justintan.local\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrows_vertical.png
+Content Type: image/png
+
+Uri: http://justintan.local/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrows_horizontal.png
+File Name: G:\WebCopy\justintan.local\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrows_horizontal.png
+Content Type: image/png
+
+Uri: http://justintan.local/wp-content/uploads/fusion-styles/ac5700aa858fe7caf3eb52d670d400a7.min.css?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-styles\ac5700aa858fe7caf3eb52d670d400a7.min.css
+Content Type: text/css
+
+Uri: http://justintan.local/wp-json/wp/v2/pages/148
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\pages\148.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fexhibitions%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fexhibitions%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/moments/
+File Name: G:\WebCopy\justintan.local\moments\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/disorders/
+File Name: G:\WebCopy\justintan.local\disorders\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/silence-and-noise/
+File Name: G:\WebCopy\justintan.local\silence-and-noise\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/48b5ebbc429d78312fa3a523c91370eb.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\48b5ebbc429d78312fa3a523c91370eb.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/wp-content/uploads/fusion-styles/b31267af30f7fda8da3dc8e30b51d6e4.min.css?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-styles\b31267af30f7fda8da3dc8e30b51d6e4.min.css
+Content Type: text/css
+
+Uri: http://justintan.local/wp-json/wp/v2/pages/152
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\pages\152.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fartists%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fartists%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/portfolio-item/helen-early-backler/
+File Name: G:\WebCopy\justintan.local\portfolio-item\helen-early-backler\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/portfolio_category/usa/
+File Name: G:\WebCopy\justintan.local\portfolio_category\usa\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/portfolio-item/serge-van-mullen/
+File Name: G:\WebCopy\justintan.local\portfolio-item\serge-van-mullen\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/portfolio_category/south-africa/
+File Name: G:\WebCopy\justintan.local\portfolio_category\south-africa\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/portfolio_category/ireland/
+File Name: G:\WebCopy\justintan.local\portfolio_category\ireland\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/portfolio-item/valerie-dicker/
+File Name: G:\WebCopy\justintan.local\portfolio-item\valerie-dicker\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/portfolio-item/louise-wilson/
+File Name: G:\WebCopy\justintan.local\portfolio-item\louise-wilson\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/portfolio-item/jake-woods/
+File Name: G:\WebCopy\justintan.local\portfolio-item\jake-woods\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/portfolio-item/pablo-lassry/
+File Name: G:\WebCopy\justintan.local\portfolio-item\pablo-lassry\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/portfolio-item/ryan-fontana/
+File Name: G:\WebCopy\justintan.local\portfolio-item\ryan-fontana\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/portfolio-item/fred-harley/
+File Name: G:\WebCopy\justintan.local\portfolio-item\fred-harley\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/e56508f06ad4903895a9515dadcc841a.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\e56508f06ad4903895a9515dadcc841a.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/wp-content/uploads/fusion-styles/cce67139334b18be63a05c76bfedfaef.min.css?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-styles\cce67139334b18be63a05c76bfedfaef.min.css
+Content Type: text/css
+
+Uri: http://justintan.local/wp-json/wp/v2/pages/150
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\pages\150.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fabout%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fabout%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/21be9119663a2a9501899f99234c94d6.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\21be9119663a2a9501899f99234c94d6.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/wp-json/wp/v2/pages/154
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\pages\154.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fstories%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fstories%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/valerie-dicker-interview/
+File Name: G:\WebCopy\justintan.local\valerie-dicker-interview\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/this-weekend-at-avada-galerie/
+File Name: G:\WebCopy\justintan.local\this-weekend-at-avada-galerie\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/stories/page/2/
+File Name: G:\WebCopy\justintan.local\stories\page\2\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/8ba13c64b708cc975ffc609486b64fd3.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\8ba13c64b708cc975ffc609486b64fd3.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/wp-json/wp/v2/pages/156
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\pages\156.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fcontact%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fcontact%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://www.facebook.com/ThemeFusion-101565403356430/
+File Name: G:\WebCopy\justintan.local\ThemeFusion-101565403356430\index.htm
+Content Type: text/html
+
+Uri: https://twitter.com/theme_fusion
+File Name: G:\WebCopy\justintan.local\theme_fusion.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/themefusion/
+File Name: G:\WebCopy\justintan.local\themefusion\index.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/channel/UC_C7uAOAH9RMzZs-CKCZ62w
+File Name: G:\WebCopy\justintan.local\channel\UC_C7uAOAH9RMzZs-CKCZ62w.html
+Content Type: text/html
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/566a0843fbec9583dd13c48a212b4028.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\566a0843fbec9583dd13c48a212b4028.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/author/admin/feed/
+File Name: G:\WebCopy\justintan.local\author\admin\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-content/uploads/fusion-styles/9bf6479063ea19add3720f544a5edd58.min.css?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-styles\9bf6479063ea19add3720f544a5edd58.min.css
+Content Type: text/css
+
+Uri: http://justintan.local/wp-json/wp/v2/users/1
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\users\1.json
+Content Type: application/json
+
+Uri: http://justintan.local/hello-world/
+File Name: G:\WebCopy\justintan.local\hello-world\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/avada-galerie-workshop/
+File Name: G:\WebCopy\justintan.local\avada-galerie-workshop\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/the-creative-process-of-richard-vora/
+File Name: G:\WebCopy\justintan.local\the-creative-process-of-richard-vora\index.htm
+Content Type: text/html
+
+Uri: http://justintan.local/author/admin/page/2/
+File Name: G:\WebCopy\justintan.local\author\admin\page\2\index.htm
+Content Type: text/html
+
+Uri: http://0.gravatar.com/avatar/c2b06ae950033b392998ada50767b50e?s=82&d=mm&r=g
+File Name: G:\WebCopy\justintan.local\avatar\c2b06ae950033b392998ada50767b50e.png
+Content Type: image/jpeg
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/b67cf9c00067788f4b17b73081a26fe1.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\b67cf9c00067788f4b17b73081a26fe1.min.js
+Content Type: application/x-javascript
+
+Uri: http://0.gravatar.com/avatar/c2b06ae950033b392998ada50767b50e?s=164&d=mm&r=g
+File Name: G:\WebCopy\justintan.local\avatar\c2b06ae950033b392998ada50767b50e-1.png
+Content Type: image/jpeg
+
+Uri: http://justintan.local/abstract-model/feed/
+File Name: G:\WebCopy\justintan.local\abstract-model\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-content/uploads/fusion-styles/87e0380424b7c4ee5899aa47cfd99227.min.css?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-styles\87e0380424b7c4ee5899aa47cfd99227.min.css
+Content Type: text/css
+
+Uri: http://justintan.local/wp-json/wp/v2/posts/171
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\posts\171.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fabstract-model%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fabstract-model%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/wp-content/uploads/2019/02/art-1.jpg
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\2019\02\art-1.jpg
+Content Type: image/jpeg
+
+Uri: http://justintan.local/wp-content/uploads/2019/02/art-2.jpg
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\2019\02\art-2.jpg
+Content Type: image/jpeg
+
+Uri: http://justintan.local/wp-content/uploads/2019/02/art-3.jpg
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\2019\02\art-3.jpg
+Content Type: image/jpeg
+
+Uri: http://justintan.local/wp-content/uploads/2019/02/art-4.jpg
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\2019\02\art-4.jpg
+Content Type: image/jpeg
+
+Uri: http://justintan.local/wp-content/uploads/2019/02/art-5.jpg
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\2019\02\art-5.jpg
+Content Type: image/jpeg
+
+Uri: http://justintan.local/wp-content/uploads/2019/02/art-6.jpg
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\2019\02\art-6.jpg
+Content Type: image/jpeg
+
+Uri: http://justintan.local/wp-content/uploads/2019/02/art-7.jpg
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\2019\02\art-7.jpg
+Content Type: image/jpeg
+
+Uri: http://justintan.local/wp-includes/js/comment-reply.min.js?ver=5.8.2
+File Name: G:\WebCopy\justintan.local\wp-includes\js\comment-reply.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/f37b0b6e703c68ab2c0d64abcc907a4d.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\f37b0b6e703c68ab2c0d64abcc907a4d.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/retrospectiva-and-divinity/feed/
+File Name: G:\WebCopy\justintan.local\retrospectiva-and-divinity\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/posts/169
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\posts\169.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fretrospectiva-and-divinity%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fretrospectiva-and-divinity%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/arkhaia/feed/
+File Name: G:\WebCopy\justintan.local\arkhaia\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/posts/167
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\posts\167.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Farkhaia%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Farkhaia%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/portfolio-item/richard-vora/feed/
+File Name: G:\WebCopy\justintan.local\portfolio-item\richard-vora\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/avada_portfolio/390
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\avada_portfolio\390.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fportfolio-item%2Frichard-vora%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fportfolio-item%2Frichard-vora%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/8a15d1bd6d9b043c4524b5e02f3675fe.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\8a15d1bd6d9b043c4524b5e02f3675fe.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/modern-art-exhibition-at-avada-galerie/feed/
+File Name: G:\WebCopy\justintan.local\modern-art-exhibition-at-avada-galerie\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-content/uploads/fusion-styles/0ba70a3836c7ef008d2e76a4e28d5534.min.css?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-styles\0ba70a3836c7ef008d2e76a4e28d5534.min.css
+Content Type: text/css
+
+Uri: http://justintan.local/wp-json/wp/v2/posts/622
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\posts\622.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fmodern-art-exhibition-at-avada-galerie%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fmodern-art-exhibition-at-avada-galerie%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/a2737a223a80f655a370a204806154cd.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\a2737a223a80f655a370a204806154cd.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/bring-your-curiosity-new-exhibition/feed/
+File Name: G:\WebCopy\justintan.local\bring-your-curiosity-new-exhibition\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/posts/620
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\posts\620.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fbring-your-curiosity-new-exhibition%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fbring-your-curiosity-new-exhibition%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/9bab9b06766d2372ffe501133d49076f.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\9bab9b06766d2372ffe501133d49076f.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/a-timeline-of-painting-at-avada-galerie/feed/
+File Name: G:\WebCopy\justintan.local\a-timeline-of-painting-at-avada-galerie\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/posts/618
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\posts\618.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fa-timeline-of-painting-at-avada-galerie%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-12.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fa-timeline-of-painting-at-avada-galerie%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-12.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/e1adf6ada3fa4de3a8e6d6346076ec11.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\e1adf6ada3fa4de3a8e6d6346076ec11.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/new-perspectives-on-storytelling-and-art/feed/
+File Name: G:\WebCopy\justintan.local\new-perspectives-on-storytelling-and-art\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/posts/615
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\posts\615.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fnew-perspectives-on-storytelling-and-art%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-13.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fnew-perspectives-on-storytelling-and-art%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-13.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/c5c6f463c90e4dcaf8f7134ead25356a.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\c5c6f463c90e4dcaf8f7134ead25356a.min.js
+Content Type: application/x-javascript
+
+Uri: https://theme-fusion.com/
+File Name: G:\WebCopy\justintan.local\index-2.htm
+Content Type: text/html
+
+Uri: https://avada.theme-fusion.com/galerie/wp-content/uploads/sites/117/2019/03/footer-bg.jpg
+File Name: G:\WebCopy\justintan.local\galerie\wp-content\uploads\sites\117\2019\03\footer-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://justintan.local/moments/feed/
+File Name: G:\WebCopy\justintan.local\moments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/posts/165
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\posts\165.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fmoments%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-14.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fmoments%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-14.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/disorders/feed/
+File Name: G:\WebCopy\justintan.local\disorders\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/posts/163
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\posts\163.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fdisorders%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-15.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fdisorders%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-15.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/silence-and-noise/feed/
+File Name: G:\WebCopy\justintan.local\silence-and-noise\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/posts/1505
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\posts\1505.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fsilence-and-noise%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-16.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fsilence-and-noise%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-16.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/portfolio-item/helen-early-backler/feed/
+File Name: G:\WebCopy\justintan.local\portfolio-item\helen-early-backler\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/avada_portfolio/394
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\avada_portfolio\394.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fportfolio-item%2Fhelen-early-backler%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-17.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fportfolio-item%2Fhelen-early-backler%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-17.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/8eb9dce6273a983d7eecc61f91169f80.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\8eb9dce6273a983d7eecc61f91169f80.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/portfolio_category/usa/feed/
+File Name: G:\WebCopy\justintan.local\portfolio_category\usa\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/portfolio_category/11
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\portfolio_category\11.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/c94db8640174c929b00846a8bc00bce1.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\c94db8640174c929b00846a8bc00bce1.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/portfolio-item/serge-van-mullen/feed/
+File Name: G:\WebCopy\justintan.local\portfolio-item\serge-van-mullen\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/avada_portfolio/392
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\avada_portfolio\392.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fportfolio-item%2Fserge-van-mullen%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-18.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fportfolio-item%2Fserge-van-mullen%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-18.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/553926e8337422594eb7bd8a115ce67f.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\553926e8337422594eb7bd8a115ce67f.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/portfolio_category/south-africa/feed/
+File Name: G:\WebCopy\justintan.local\portfolio_category\south-africa\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/portfolio_category/10
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\portfolio_category\10.json
+Content Type: application/json
+
+Uri: http://justintan.local/portfolio_category/ireland/feed/
+File Name: G:\WebCopy\justintan.local\portfolio_category\ireland\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/portfolio_category/8
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\portfolio_category\8.json
+Content Type: application/json
+
+Uri: http://justintan.local/portfolio-item/valerie-dicker/feed/
+File Name: G:\WebCopy\justintan.local\portfolio-item\valerie-dicker\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/avada_portfolio/173
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\avada_portfolio\173.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fportfolio-item%2Fvalerie-dicker%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-19.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fportfolio-item%2Fvalerie-dicker%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-19.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/4107939ac768bd9d46ea29fd05d588b0.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\4107939ac768bd9d46ea29fd05d588b0.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/portfolio-item/louise-wilson/feed/
+File Name: G:\WebCopy\justintan.local\portfolio-item\louise-wilson\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/avada_portfolio/145
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\avada_portfolio\145.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fportfolio-item%2Flouise-wilson%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-20.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fportfolio-item%2Flouise-wilson%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-20.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/7766623deeba76214ebad815b051576e.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\7766623deeba76214ebad815b051576e.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/portfolio-item/jake-woods/feed/
+File Name: G:\WebCopy\justintan.local\portfolio-item\jake-woods\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/avada_portfolio/143
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\avada_portfolio\143.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fportfolio-item%2Fjake-woods%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-21.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fportfolio-item%2Fjake-woods%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-21.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/dadc4767c712c364062cae42b7149cc7.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\dadc4767c712c364062cae42b7149cc7.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/portfolio-item/pablo-lassry/feed/
+File Name: G:\WebCopy\justintan.local\portfolio-item\pablo-lassry\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/avada_portfolio/141
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\avada_portfolio\141.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fportfolio-item%2Fpablo-lassry%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-22.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fportfolio-item%2Fpablo-lassry%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-22.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/083c9caab233a16e300d725f668b9d69.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\083c9caab233a16e300d725f668b9d69.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/portfolio-item/ryan-fontana/feed/
+File Name: G:\WebCopy\justintan.local\portfolio-item\ryan-fontana\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/avada_portfolio/139
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\avada_portfolio\139.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fportfolio-item%2Fryan-fontana%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-23.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fportfolio-item%2Fryan-fontana%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-23.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/8b9b88c4bd11e31dcf10eca796140ace.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\8b9b88c4bd11e31dcf10eca796140ace.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/portfolio-item/fred-harley/feed/
+File Name: G:\WebCopy\justintan.local\portfolio-item\fred-harley\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/avada_portfolio/136
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\avada_portfolio\136.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fportfolio-item%2Ffred-harley%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-24.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fportfolio-item%2Ffred-harley%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-24.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/e0663621a021d3432baab71927487946.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\e0663621a021d3432baab71927487946.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/valerie-dicker-interview/feed/
+File Name: G:\WebCopy\justintan.local\valerie-dicker-interview\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/posts/613
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\posts\613.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fvalerie-dicker-interview%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-25.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fvalerie-dicker-interview%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-25.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/1b3628c0dd6f731dfa5a192f655574e2.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\1b3628c0dd6f731dfa5a192f655574e2.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/this-weekend-at-avada-galerie/feed/
+File Name: G:\WebCopy\justintan.local\this-weekend-at-avada-galerie\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/posts/611
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\posts\611.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fthis-weekend-at-avada-galerie%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-26.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fthis-weekend-at-avada-galerie%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-26.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/1d4fbb3e7fac18f484705234a850db25.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\1d4fbb3e7fac18f484705234a850db25.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/hello-world/feed/
+File Name: G:\WebCopy\justintan.local\hello-world\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/posts/1
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\posts\1.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fhello-world%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-27.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fhello-world%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-27.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/5ae4fd3a99d708720d4577986c04b435.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\5ae4fd3a99d708720d4577986c04b435.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/avada-galerie-workshop/feed/
+File Name: G:\WebCopy\justintan.local\avada-galerie-workshop\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/posts/609
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\posts\609.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Favada-galerie-workshop%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-28.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Favada-galerie-workshop%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-28.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/8441ca60aa7b4b0eff2037b2366defc7.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\8441ca60aa7b4b0eff2037b2366defc7.min.js
+Content Type: application/x-javascript
+
+Uri: http://justintan.local/the-creative-process-of-richard-vora/feed/
+File Name: G:\WebCopy\justintan.local\the-creative-process-of-richard-vora\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: http://justintan.local/wp-json/wp/v2/posts/467
+File Name: G:\WebCopy\justintan.local\wp-json\wp\v2\posts\467.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fthe-creative-process-of-richard-vora%2F
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-29.json
+Content Type: application/json
+
+Uri: http://justintan.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fjustintan.local%2Fthe-creative-process-of-richard-vora%2F&format=xml
+File Name: G:\WebCopy\justintan.local\wp-json\oembed\1.0\embed-29.xml
+Content Type: text/xml
+
+Uri: http://justintan.local/wp-content/uploads/fusion-scripts/05c4e881b8699f78ce5b9faf985403a8.min.js?ver=3.4.1
+File Name: G:\WebCopy\justintan.local\wp-content\uploads\fusion-scripts\05c4e881b8699f78ce5b9faf985403a8.min.js
+Content Type: application/x-javascript
+
+Uri: https://themeforest.net/item/avada-responsive-multipurpose-theme/2833226?irgwc=1&clickid=&iradid=275988&irpid=1292887&iradtype=ONLINE_TRACKING_LINK&irmptype=&mp_value1=&utm_campaign=af_impact_radius_1292887&utm_medium=affiliate&utm_source=impact_radius
+File Name: G:\WebCopy\justintan.local\item\avada-responsive-multipurpose-theme\2833226.html
+Content Type: text/html
+
