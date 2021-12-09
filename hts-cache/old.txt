@@ -1,6 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-22:26:22	7093/7093	U--M-Z	200	updated ('OK')	text/html	date:Wed,%2008%20Dec%202021%2014:26:22%20GMT	https://portopower.webflow.io/	G:/HTTRack/Webflow%20Portfolio/Webflow%20Portfolio/index-2.html	(from )
-22:26:23	21/21	U-----	200	untouched ('OK')	text/plain	date:Wed,%2008%20Dec%202021%2014:24:35%20GMT	https://portopower.webflow.io/robots.txt		(from )
-22:26:23	5799/5799	U--M-Z	200	updated ('OK')	text/html	date:Wed,%2008%20Dec%202021%2014:26:22%20GMT	https://portopower.webflow.io/blog	G:/HTTRack/Webflow%20Portfolio/Webflow%20Portfolio/blog.html	(from https://portopower.webflow.io/)
-22:26:24	5095/5095	U--M-Z	200	updated ('OK')	text/html	date:Wed,%2008%20Dec%202021%2014:26:23%20GMT	https://portopower.webflow.io/about	G:/HTTRack/Webflow%20Portfolio/Webflow%20Portfolio/about.html	(from https://portopower.webflow.io/)
-22:26:25	8706/8706	U--M-Z	200	updated ('OK')	text/html	date:Wed,%2008%20Dec%202021%2014:26:24%20GMT	https://portopower.webflow.io/photos/city	G:/HTTRack/Webflow%20Portfolio/Webflow%20Portfolio/photos/city.html	(from https://portopower.webflow.io/)
