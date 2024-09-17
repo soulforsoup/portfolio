@@ -1,1 +1,3 @@
-Portfolio site showcasing my works as a videographer and photographer, built on Wordpress and converted for use as a static site.
+# Portfolio
+
+This is a static website portfolio for my works as a content creator and multimedia professional. The site was originally built with WordPress and exported as static HTML.
