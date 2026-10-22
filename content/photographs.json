@@ -1,0 +1,1154 @@
+[
+  {
+    "id": "photo-01",
+    "index": 1,
+    "slug": "JTN08379",
+    "category": "people",
+    "alt": "A couple smiling together beneath celebratory lettering",
+    "original": "wp-content/uploads/2022/07/JTN08379-1920x2400.jpg",
+    "width": 1920,
+    "height": 2400,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN08379-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN08379-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN08379-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-02",
+    "index": 2,
+    "slug": "JTN08317",
+    "category": "people",
+    "alt": "A family laughing together with a blue balloon",
+    "original": "wp-content/uploads/2022/07/JTN08317-1920x1280.jpg",
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN08317-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN08317-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN08317-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-03",
+    "index": 3,
+    "slug": "3I2A5687",
+    "category": "places",
+    "alt": "Container cranes and colourful shipping containers at a port",
+    "original": "wp-content/uploads/2022/07/3I2A5687-1920x1280.jpg",
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/3I2A5687-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/3I2A5687-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/3I2A5687-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-04",
+    "index": 4,
+    "slug": "DSC00013",
+    "category": "places",
+    "alt": "An elevated view of a container terminal beside a highway",
+    "original": "wp-content/uploads/2022/07/DSC00013-1920x1280.jpg",
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/DSC00013-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/DSC00013-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/DSC00013-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-05",
+    "index": 5,
+    "slug": "JTN03092",
+    "category": "places",
+    "alt": "Quayside cranes overlooking rows of shipping containers",
+    "original": "wp-content/uploads/2022/07/JTN03092-1920x1267.jpg",
+    "width": 1920,
+    "height": 1267,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN03092-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN03092-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN03092-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-06",
+    "index": 6,
+    "slug": "3I2A5684",
+    "category": "places",
+    "alt": "Shipping containers and cranes along a port roadway",
+    "original": "wp-content/uploads/2022/07/3I2A5684-1920x1280.jpg",
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/3I2A5684-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/3I2A5684-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/3I2A5684-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-07",
+    "index": 7,
+    "slug": "JTN03789",
+    "category": "people",
+    "alt": "A man in a checked shirt sitting outdoors with a backpack",
+    "original": "wp-content/uploads/2022/07/JTN03789-1920x2880.jpg",
+    "width": 1920,
+    "height": 2880,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN03789-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN03789-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN03789-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-08",
+    "index": 8,
+    "slug": "JTN03882",
+    "category": "people",
+    "alt": "A man carrying a backpack through a green garden",
+    "original": "wp-content/uploads/2022/07/JTN03882-1920x1280.jpg",
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN03882-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN03882-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN03882-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-09",
+    "index": 9,
+    "slug": "JTN03970",
+    "category": "people",
+    "alt": "A smiling man in a navy jacket inside a café",
+    "original": "wp-content/uploads/2022/07/JTN03970-1920x1280.jpg",
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN03970-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN03970-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN03970-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-10",
+    "index": 10,
+    "slug": "JTN03640",
+    "category": "people",
+    "alt": "A woman sitting outdoors with a pair of hiking boots",
+    "original": "wp-content/uploads/2022/07/JTN03640-1920x1280.jpg",
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN03640-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN03640-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN03640-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-11",
+    "index": 11,
+    "slug": "3I2A9492",
+    "category": "people",
+    "alt": "A man being filmed on an interview set",
+    "original": "wp-content/uploads/2022/07/3I2A9492-1920x1280.jpg",
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/3I2A9492-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/3I2A9492-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/3I2A9492-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-12",
+    "index": 12,
+    "slug": "JTN04256",
+    "category": "people",
+    "alt": "A couple sharing a moment with a bouquet outside a historic building",
+    "original": "wp-content/uploads/2022/07/JTN04256-1920x2880.jpg",
+    "width": 1920,
+    "height": 2880,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN04256-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN04256-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN04256-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-13",
+    "index": 13,
+    "slug": "JTN04272",
+    "category": "people",
+    "alt": "A wedding group portrait outside a building with tall windows",
+    "original": "wp-content/uploads/2022/07/JTN04272-1920x1280.jpg",
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN04272-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN04272-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN04272-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-14",
+    "index": 14,
+    "slug": "JTN04291",
+    "category": "people",
+    "alt": "A couple and a guest posing together beside tall windows",
+    "original": "wp-content/uploads/2022/07/JTN04291-1920x2880.jpg",
+    "width": 1920,
+    "height": 2880,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN04291-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN04291-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN04291-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-15",
+    "index": 15,
+    "slug": "JTN04297",
+    "category": "people",
+    "alt": "A close-up of wedding rings, joined hands and a bouquet",
+    "original": "wp-content/uploads/2022/07/JTN04297-1920x1312.jpg",
+    "width": 1920,
+    "height": 1312,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN04297-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN04297-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN04297-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-16",
+    "index": 16,
+    "slug": "JTN04306",
+    "category": "people",
+    "alt": "A bouquet wrapped in white paper outside a building",
+    "original": "wp-content/uploads/2022/07/JTN04306-1920x2880.jpg",
+    "width": 1920,
+    "height": 2880,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN04306-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN04306-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN04306-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-17",
+    "index": 17,
+    "slug": "JTN04140",
+    "category": "people",
+    "alt": "A couple walking along a garden path",
+    "original": "wp-content/uploads/2022/07/JTN04140-1920x2880.jpg",
+    "width": 1920,
+    "height": 2880,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN04140-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN04140-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN04140-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-18",
+    "index": 18,
+    "slug": "JTN04160",
+    "category": "people",
+    "alt": "A couple laughing together in a garden",
+    "original": "wp-content/uploads/2022/07/JTN04160-1920x1328.jpg",
+    "width": 1920,
+    "height": 1328,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN04160-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN04160-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN04160-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-19",
+    "index": 19,
+    "slug": "JTN04167",
+    "category": "people",
+    "alt": "Friends and family laughing around a wedding couple",
+    "original": "wp-content/uploads/2022/07/JTN04167-1920x1334.jpg",
+    "width": 1920,
+    "height": 1334,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN04167-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN04167-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN04167-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-20",
+    "index": 20,
+    "slug": "JTN04174",
+    "category": "people",
+    "alt": "A couple seated at their marriage ceremony",
+    "original": "wp-content/uploads/2022/07/JTN04174-1920x1280.jpg",
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN04174-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN04174-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN04174-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-21",
+    "index": 21,
+    "slug": "JTN02979",
+    "category": "people",
+    "alt": "A man walking through a grassy plot beside a building",
+    "original": "wp-content/uploads/2022/07/JTN02979-1920x1280.jpg",
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN02979-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN02979-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN02979-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-22",
+    "index": 22,
+    "slug": "JTN04502",
+    "category": "places",
+    "alt": "A silhouetted figure beneath an industrial tower",
+    "original": "wp-content/uploads/2022/07/JTN04502-1920x2880.jpg",
+    "width": 1920,
+    "height": 2880,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN04502-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN04502-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN04502-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-23",
+    "index": 23,
+    "slug": "IMG_1956",
+    "category": "places",
+    "alt": "A cyclist crossing a bridge above a riverside town",
+    "original": "wp-content/uploads/2022/07/IMG_1956-1920x1280.jpg",
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/IMG_1956-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/IMG_1956-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/IMG_1956-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-24",
+    "index": 24,
+    "slug": "IMG_9555",
+    "category": "people",
+    "alt": "A parent holding a baby during a ceremony",
+    "original": "wp-content/uploads/2022/07/IMG_9555-1920x1316.jpg",
+    "width": 1920,
+    "height": 1316,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/IMG_9555-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/IMG_9555-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/IMG_9555-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-25",
+    "index": 25,
+    "slug": "176978_10151246708207838_1557952631_o",
+    "category": "people",
+    "alt": "A performer on a stage lit in red and blue",
+    "original": "wp-content/uploads/2022/07/176978_10151246708207838_1557952631_o-1920x1280.jpg",
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/176978_10151246708207838_1557952631_o-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/176978_10151246708207838_1557952631_o-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/176978_10151246708207838_1557952631_o-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-26",
+    "index": 26,
+    "slug": "JTN01819",
+    "category": "people",
+    "alt": "A studio portrait of two men in waistcoats",
+    "original": "wp-content/uploads/2022/07/JTN01819-1920x2880.jpg",
+    "width": 1920,
+    "height": 2880,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN01819-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN01819-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN01819-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-27",
+    "index": 27,
+    "slug": "JTN01675",
+    "category": "food",
+    "alt": "Churros dusted with sugar over a wooden board",
+    "original": "wp-content/uploads/2022/07/JTN01675-1920x1280.jpg",
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN01675-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN01675-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN01675-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-28",
+    "index": 28,
+    "slug": "JTN01687",
+    "category": "food",
+    "alt": "Churros in a metal cup on a wooden board",
+    "original": "wp-content/uploads/2022/07/JTN01687-1920x1280.jpg",
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN01687-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN01687-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN01687-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-29",
+    "index": 29,
+    "slug": "JTN01707",
+    "category": "food",
+    "alt": "Churros, a glass jar and a dusting of sugar",
+    "original": "wp-content/uploads/2022/07/JTN01707-1920x1280.jpg",
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN01707-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN01707-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN01707-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-30",
+    "index": 30,
+    "slug": "JTN01026",
+    "category": "food",
+    "alt": "A blowtorch searing sushi against a dark background",
+    "original": "wp-content/uploads/2022/07/JTN01026-1920x2400.jpg",
+    "width": 1920,
+    "height": 2400,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN01026-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN01026-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN01026-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-31",
+    "index": 31,
+    "slug": "JTN07728",
+    "category": "food",
+    "alt": "A glazed street-food skewer held against a busy street",
+    "original": "wp-content/uploads/2022/07/JTN07728-1920x2400.jpg",
+    "width": 1920,
+    "height": 2400,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN07728-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN07728-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN07728-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-32",
+    "index": 32,
+    "slug": "JTN07740",
+    "category": "food",
+    "alt": "A piece of food lifted with chopsticks above a bowl",
+    "original": "wp-content/uploads/2022/07/JTN07740-1920x2400.jpg",
+    "width": 1920,
+    "height": 2400,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN07740-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN07740-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN07740-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-33",
+    "index": 33,
+    "slug": "JTN07776",
+    "category": "food",
+    "alt": "A fork lifting melted cheese from a takeaway tray",
+    "original": "wp-content/uploads/2022/07/JTN07776-1920x2400.jpg",
+    "width": 1920,
+    "height": 2400,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN07776-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN07776-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN07776-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-34",
+    "index": 34,
+    "slug": "JTN07829",
+    "category": "food",
+    "alt": "A hand holding a takeaway drink on a busy street",
+    "original": "wp-content/uploads/2022/07/JTN07829-1920x2400.jpg",
+    "width": 1920,
+    "height": 2400,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN07829-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN07829-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN07829-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-35",
+    "index": 35,
+    "slug": "JTN00489",
+    "category": "food",
+    "alt": "A dessert topped with a strawberry on a dark plate",
+    "original": "wp-content/uploads/2022/07/JTN00489-1920x2400.jpg",
+    "width": 1920,
+    "height": 2400,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN00489-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN00489-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN00489-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-36",
+    "index": 36,
+    "slug": "JTN02220",
+    "category": "places",
+    "alt": "A warmly lit restaurant interior with tables and exposed ceiling pipes",
+    "original": "wp-content/uploads/2022/07/JTN02220-1920x2400.jpg",
+    "width": 1920,
+    "height": 2400,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN02220-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN02220-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN02220-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-37",
+    "index": 37,
+    "slug": "DSC04831",
+    "category": "people",
+    "alt": "A man lighting a cigarette in a blue-lit street at night",
+    "original": "wp-content/uploads/2022/07/DSC04831-1920x1280.jpg",
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/DSC04831-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/DSC04831-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/DSC04831-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-38",
+    "index": 38,
+    "slug": "DSC04838",
+    "category": "people",
+    "alt": "A photographer holding a camera in a blue-lit street at night",
+    "original": "wp-content/uploads/2022/07/DSC04838-1920x1322.jpg",
+    "width": 1920,
+    "height": 1322,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/DSC04838-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/DSC04838-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/DSC04838-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-39",
+    "index": 39,
+    "slug": "JTN02121",
+    "category": "places",
+    "alt": "A hand holding a phone to photograph a night-time scene",
+    "original": "wp-content/uploads/2022/07/JTN02121-1920x1357.jpg",
+    "width": 1920,
+    "height": 1357,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN02121-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN02121-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN02121-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-40",
+    "index": 40,
+    "slug": "JTN02179",
+    "category": "places",
+    "alt": "A road curving between snowy hills beneath a blue sky",
+    "original": "wp-content/uploads/2022/07/JTN02179-1920x2400.jpg",
+    "width": 1920,
+    "height": 2400,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN02179-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN02179-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN02179-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-41",
+    "index": 41,
+    "slug": "JTN02181",
+    "category": "places",
+    "alt": "Snow-covered hills beneath white clouds and blue sky",
+    "original": "wp-content/uploads/2022/07/JTN02181-1920x1080.jpg",
+    "width": 1920,
+    "height": 1080,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN02181-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN02181-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN02181-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-42",
+    "index": 42,
+    "slug": "JTN02218",
+    "category": "places",
+    "alt": "A panoramic view of snow-covered scrubland",
+    "original": "wp-content/uploads/2022/07/JTN02218-1920x733.jpg",
+    "width": 1920,
+    "height": 733,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN02218-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN02218-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN02218-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-43",
+    "index": 43,
+    "slug": "JTN02353",
+    "category": "places",
+    "alt": "The Milky Way framed by the silhouettes of trees",
+    "original": "wp-content/uploads/2022/07/JTN02353-1920x1536.jpg",
+    "width": 1920,
+    "height": 1536,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN02353-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN02353-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN02353-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-44",
+    "index": 44,
+    "slug": "JTN02366",
+    "category": "places",
+    "alt": "Colourful light painting beneath a star-filled sky",
+    "original": "wp-content/uploads/2022/07/JTN02366-1920x1280.jpg",
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN02366-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN02366-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN02366-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-45",
+    "index": 45,
+    "slug": "JTN02883",
+    "category": "places",
+    "alt": "A mountain silhouetted beneath the last light of dusk",
+    "original": "wp-content/uploads/2022/07/JTN02883-1920x1280.jpg",
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN02883-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN02883-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN02883-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-46",
+    "index": 46,
+    "slug": "JTN04804",
+    "category": "places",
+    "alt": "The sun setting over a rocky shoreline",
+    "original": "wp-content/uploads/2022/07/JTN04804-1920x1280.jpg",
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN04804-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN04804-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN04804-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-47",
+    "index": 47,
+    "slug": "JTN04824",
+    "category": "places",
+    "alt": "The setting sun beyond a dirt road and open fields",
+    "original": "wp-content/uploads/2022/07/JTN04824-1920x1280.jpg",
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN04824-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN04824-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN04824-1600.webp"
+      }
+    ]
+  },
+  {
+    "id": "photo-48",
+    "index": 48,
+    "slug": "JTN04063",
+    "category": "places",
+    "alt": "Power lines and buildings silhouetted against an evening sky",
+    "original": "wp-content/uploads/2022/07/JTN04063-1920x1280.jpg",
+    "width": 1920,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/images/JTN04063-480.webp"
+      },
+      {
+        "width": 960,
+        "path": "assets/images/JTN04063-960.webp"
+      },
+      {
+        "width": 1600,
+        "path": "assets/images/JTN04063-1600.webp"
+      }
+    ]
+  }
+]
