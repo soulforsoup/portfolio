@@ -1,0 +1,90 @@
+{
+  "name": "justin tan",
+  "eyebrow": "an amalgation",
+  "tagline": "I create videos, photos, write articles and design websites.",
+  "level": "Lv. 28",
+  "role": "Content Creator",
+  "description": "Description: This human found a passion in the art of video creation at a really young age. Ever since then, he’s gone on a global crusade to conquer the realm of content creation.",
+  "aside": "Just kidding. Anyway, I love cheese.",
+  "services": [
+    {
+      "title": "Videography",
+      "description": "Weddings, corporate, multi-level marketing scams, etc",
+      "href": "videography/"
+    },
+    {
+      "title": "Photography",
+      "description": "My relatives keep asking me to take passport photos",
+      "href": "photography/"
+    },
+    {
+      "title": "Web Design",
+      "description": "Anyone else get frustrated when your code decides to stop working?",
+      "href": "#contact"
+    }
+  ],
+  "experience": [
+    {
+      "title": "PSA International",
+      "description": "I am part of a diverse and dynamic team of creatives in Group Corporate Affairs, PSA International’s public relations, corporate communications and internal/external branding arm.",
+      "url": "https://www.globalpsa.com/"
+    },
+    {
+      "title": "Goody Feed",
+      "description": "Responsible for conceptualizing and breathing life into new media projects, as well as refining the workflow and style of current projects to keep Goody Feed’s content fresh and competitive.",
+      "url": "https://www.facebook.com/goodyfeed/"
+    },
+    {
+      "title": "Freelance",
+      "description": "I’ve done a variety of work over the years as a videographer and photographer.",
+      "clients": [
+        {
+          "title": "GP Management",
+          "url": "https://gp-management.com/"
+        },
+        {
+          "title": "DBS Bank",
+          "url": "https://www.dbs.com.sg/index/default.page"
+        },
+        {
+          "title": "Dolby Singapore",
+          "url": "https://www.dolby.com/"
+        }
+      ]
+    },
+    {
+      "title": "Self-Employed",
+      "description": "I’ve done a variety of work over the years as a videographer and photographer."
+    }
+  ],
+  "easterEgg": {
+    "title": "Side Character",
+    "description": "I guess I should congratulate you for finding this hidden easter egg?"
+  },
+  "skills": [
+    "Videography",
+    "Photography",
+    "Writing",
+    "Web Design"
+  ],
+  "qualifications": [
+    "Bachelor of Communication (Professional Communication)",
+    "Diploma in Film, Sound & Video"
+  ],
+  "contactTitle": "Don't be shy",
+  "email": "justintmk@gmail.com",
+  "socials": [
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/justintmk/"
+    },
+    {
+      "title": "Vimeo",
+      "url": "https://vimeo.com/justintmk"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/channel/UCejC7sMN5aRHB5NVRJvDwQg"
+    }
+  ]
+}
