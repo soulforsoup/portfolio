@@ -1,0 +1,30 @@
+{
+  "prepared_date_singapore": "2026-10-21",
+  "source_site": "https://justintan.work/",
+  "source_repository": "https://github.com/soulforsoup/portfolio",
+  "source_commit": "e6053906c0e6860c01fa2d87b752c1aa201c4a18",
+  "pages": [
+    "/",
+    "/videography/",
+    "/photography/"
+  ],
+  "original_upload_files": 198,
+  "gallery_photographs": 48,
+  "home_photographs": 2,
+  "video_projects": 10,
+  "local_video_thumbnails": 10,
+  "optimised_images": 147,
+  "verification": [
+    "Original upload SHA-256 hashes match",
+    "All original public content represented",
+    "Local links resolve at root and /portfolio/",
+    "JavaScript syntax check passed",
+    "All new image files decode successfully",
+    "No WordPress runtime dependencies"
+  ],
+  "verification_limits": [
+    "No interactive browser QA available",
+    "Live YouTube playback not tested"
+  ],
+  "publication_status": "Prepared locally; no remote repository, Pages settings, DNS or live site changes"
+}
